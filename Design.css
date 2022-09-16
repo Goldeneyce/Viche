@@ -589,8 +589,8 @@ flex-grow: 0;
    height: 74px;
    
    background: #6459dfdc;
-   border: 1px solid #FEFEFF;
-   border-radius: 12px;
+
+   border-radius: 5px;
    
    /* Inside auto layout */
    
@@ -599,7 +599,7 @@ flex-grow: 0;
    flex-grow: 0;
 }
 
-.git2
+.gith2
 {
   /* Get in touch */
 
