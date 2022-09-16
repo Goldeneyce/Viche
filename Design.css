@@ -1,7 +1,7 @@
 
 @font-face {
-  font-family: FUNGIS;
-  src: url('./Fonts/Regular.otf') format(otf);
+  font-family: sans-serif;
+  src: url('./Fonts/Regular.otf') format('otf');
   src: url('https://github.com/Goldeneyce/Viche/blob/8f2a5f6d13590071cf54d57947f905a47fdf47ac/Fonts/Regular.otf');
 }
 
