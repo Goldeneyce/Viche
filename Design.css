@@ -463,6 +463,7 @@ flex-grow: 0;
  height: 74px;
  
  background: #6459dfdc;
+ border: 1px solid #FEFEFF;
  border-radius: 5px;
  
  /* Inside auto layout */
@@ -2054,29 +2055,6 @@ order: 0;
 flex-grow: 0;
 }
 
-.frame1893
-{
-  /* Frame 1893 */
-
-
-/* Auto layout */
-
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-padding: 0px;
-gap: 24px;
-
-width: 625px;
-height: 752px;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 0;
-flex-grow: 0;
-}
 
 .tabout
 {
